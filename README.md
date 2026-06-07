@@ -71,5 +71,5 @@ SELECT * FROM orderdetails;
 ---
 
 ## 👤 Author
-**Uche Chiedozie**  
-[LinkedIn](https://linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+**Uche Chiedozie
+[GitHub](https://github.com/Edozie04)
